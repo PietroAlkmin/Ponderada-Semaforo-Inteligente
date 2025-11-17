@@ -23,8 +23,9 @@ As funcionalidades da interface incluem um dashboard de telemetria que exibe con
 ## Distribuição de Funcções
 
 A execução do projeto foi distribuída entre os membros da equipe conforme as seguintes atribuições:
-- João e Vitor: Responsáveis pela montagem física inicial do sistema, incluindo a configuração dos componentes eletrônicos e estruturação do circuito.
-- Pietro: Desenvolvimento e implementação do dashboard online para monitoramento e controle do sistema em tempo real.
-- Sara, Raiane e Nathalia: Desenvolvimento da programação do sistema, incluindo a lógica de controle do semáforo, integração com sensores e depuração das conexões da montagem inicial para garantir o funcionamento adequado.
-- Leunam: Implementação do componente adicional (display LCD) visando o cumprimento dos requisitos para nota máxima na atividade, proporcionando visualização local dos dados do sistema.
+- João e Vitor: montagem física inicial do sistema, incluindo a configuração dos componentes eletrônicos e estruturação do circuito.
+- Pietro: desenvolvimento e implementação da aplicação web para monitoramento e controle do sistema em tempo real.
+- Sara, Raiane e Nathalia: desenvolvimento da programação do sistema, incluindo a lógica de controle do semáforo, integração com sensores e depuração das conexões da montagem inicial para garantir o funcionamento adequado.
+- Leunam: implementação do componente adicional (display LCD) visando o cumprimento dos requisitos para nota máxima na atividade, proporcionando visualização local dos dados do sistema.
+
 
