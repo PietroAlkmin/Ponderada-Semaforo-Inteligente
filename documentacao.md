@@ -20,12 +20,13 @@ A segunda parte do projeto consiste no desenvolvimento de uma interface online c
 Para complementar a visualização dos dados, foi adicionado um display LCD físico ao sistema, que exibe em tempo real as informações mais relevantes diretamente no hardware, como o valor atual do sensor LDR, o estado operacional do semáforo e o modo ativo (diurno ou noturno). Esta adição proporciona monitoramento local imediato, eliminando a necessidade de acesso constante ao dashboard online para verificações rápidas do sistema.
 As funcionalidades da interface incluem um dashboard de telemetria que exibe continuamente o valor lido pelo sensor LDR, proporcionando feedback visual imediato sobre as condições de luminosidade. Além disso, um sistema de controle manual permite ao usuário ativar o modo noturno a qualquer momento, forçar estados específicos dos semáforos ou pausar completamente o ciclo de operação, oferecendo flexibilidade total no gerenciamento do sistema.
 
-## Distribuição de Funcções
+## Distribuição de Funções
 
 A execução do projeto foi distribuída entre os membros da equipe conforme as seguintes atribuições:
 - João e Vitor: montagem física inicial do sistema, incluindo a configuração dos componentes eletrônicos e estruturação do circuito.
 - Pietro: desenvolvimento e implementação da aplicação web para monitoramento e controle do sistema em tempo real.
 - Sara, Raiane e Nathalia: desenvolvimento da programação do sistema, incluindo a lógica de controle do semáforo, integração com sensores e depuração das conexões da montagem inicial para garantir o funcionamento adequado.
 - Leunam: implementação do componente adicional (display LCD) visando o cumprimento dos requisitos para nota máxima na atividade, proporcionando visualização local dos dados do sistema.
+
 
 
