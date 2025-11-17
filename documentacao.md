@@ -3,6 +3,16 @@
 
 [LINK](https://drive.google.com/drive/folders/1hZ-J_5z5H29-E_BpdBOBVze9a-kWM2x5?usp=sharing) das imagens e vídeo demonstrativo.
 
+A execução do projeto foi distribuída entre os membros da equipe conforme as seguintes atribuições:
+
+João e Vitor: Responsáveis pela montagem física inicial do sistema, incluindo a configuração dos componentes eletrônicos e estruturação do circuito.
+
+Pietro: Desenvolvimento e implementação do dashboard online para monitoramento e controle do sistema em tempo real.
+
+Sara, Raiane e Nathalia: Desenvolvimento da programação do sistema, incluindo a lógica de controle do semáforo, integração com sensores e depuração das conexões da montagem inicial para garantir o funcionamento adequado.
+
+Leunam: Implementação do componente adicional (display LCD) visando o cumprimento dos requisitos para nota máxima na atividade, proporcionando visualização local dos dados do sistema.
+
 ## Parte 1 — Sistema Físico com LDR e Modo Noturno
 
 
@@ -22,6 +32,7 @@ O modo noturno é ativado ao detectar baixa luminosidade geral, não apenas dura
 A segunda parte do projeto consiste no desenvolvimento de uma interface online com diversos objetivos práticos. A interface permite visualizar em tempo real o valor lido pelo sensor LDR, possibilita ativar ou desativar manualmente o modo noturno, e oferece a capacidade de ajustar diversos parâmetros do semáforo, incluindo o tempo de duração de cada fase (verde, amarelo e vermelho) e os valores de threshold utilizados para detecção.
 Para complementar a visualização dos dados, foi adicionado um display LCD físico ao sistema, que exibe em tempo real as informações mais relevantes diretamente no hardware, como o valor atual do sensor LDR, o estado operacional do semáforo e o modo ativo (diurno ou noturno). Esta adição proporciona monitoramento local imediato, eliminando a necessidade de acesso constante ao dashboard online para verificações rápidas do sistema.
 As funcionalidades da interface incluem um dashboard de telemetria que exibe continuamente o valor lido pelo sensor LDR, proporcionando feedback visual imediato sobre as condições de luminosidade. Além disso, um sistema de controle manual permite ao usuário ativar o modo noturno a qualquer momento, forçar estados específicos dos semáforos ou pausar completamente o ciclo de operação, oferecendo flexibilidade total no gerenciamento do sistema.
+
 
 
 
